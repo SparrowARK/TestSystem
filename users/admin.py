@@ -1,6 +1,7 @@
 from django.contrib import admin
-from .models import Time,Present
 from django.contrib.admin.models import LogEntry
+
+from .models import Present, Time
 
 # Register your models here.
 admin.site.register(Time)

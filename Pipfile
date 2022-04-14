@@ -9,7 +9,7 @@ asgiref = "==3.3.1"
 black = "==20.8b1"
 certifi = "==2020.12.5"
 chardet = "==4.0.0"
-click = "==7.1.2"
+click = "==8.0.2"
 cmake = "==3.22.0"
 colorama = "==0.4.4"
 cycler = "==0.10.0"
@@ -46,6 +46,7 @@ toml = "==0.10.2"
 typed-ast = "==1.4.2"
 typing-extensions = "==3.7.4.3"
 urllib3 = "==1.26.4"
+pre-commit = "*"
 
 [dev-packages]
 
