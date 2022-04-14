@@ -6,6 +6,7 @@ import time
 
 import cv2
 import dlib
+import face_recognition
 import imutils
 import numpy as np
 from imutils import face_utils
